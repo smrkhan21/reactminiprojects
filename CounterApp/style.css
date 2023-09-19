@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background-image: linear-gradient(to bottom right, blue, black);
+}
+
+#root {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    background-image: linear-gradient(to bottom right, black, blue);
+    padding: 20px 50px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 50px 5px blue;
+}
+
+.btn {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    border: 0px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: lightgray;
+}
+
+#counter {
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    font-weight: 600;
+}
