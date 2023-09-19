@@ -1,0 +1,5 @@
+# Requirements
+
+1. Implement a multi-step form component with validation and navigation between steps.
+
+2. Implement a form component with dynamic fields that can be added or removed by the user.

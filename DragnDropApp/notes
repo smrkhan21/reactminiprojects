@@ -1,0 +1,5 @@
+# Requirements
+
+1. Implement a draggable component that allows users to drag and drop elements within a container.
+
+2. Create a drag and drop file uploader component that supports multiple file uploads.
